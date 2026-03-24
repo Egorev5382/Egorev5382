@@ -5,7 +5,7 @@
 <h3 align="center">💻 Fullstack Developer | Чат-боты & Веб-приложения</h3>
 
 <p align="center">
-  <a href="https://t.me/egorgorev6565">
+  <a href="https://t.me/egordevop">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:egorev380@gmail.com">
